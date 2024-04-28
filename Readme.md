@@ -30,7 +30,7 @@ Pofessora: Thalita Nunes
 <img src="/figma/paginas Readme/Eliane.svg"><br>
 <img src="/figma/paginas Readme/Carvalho Fumê.svg"><br>
 <img src="/figma/paginas Readme/Munari Cimento EXT.svg"><br>
-<img src="/figma/paginas Readme/Nero Marquina.svg.svg"><br>
+<img src="/figma/paginas Readme/Nero Marquina.svg"><br>
 
 ### Categoria Louças e Metais
 
