@@ -19,7 +19,7 @@ Pofessora: Thalita Nunes
 
 ### Marca Portobello
 
-\*\*\*Na pagina inicial das Marcas foi definido uma caixa onde estará uma descrição da marca, origem e o que ela oferece ao cliente!<br><br>
+Na pagina inicial das Marcas foi definido uma caixa onde estará uma descrição da marca, origem e o que ela oferece ao cliente!<br><br>
 <img src="/figma/paginas Readme/Portobello.svg"><br>
 <img src="/figma/paginas Readme/Vstone.svg"><br>
 <img src="/figma/paginas Readme/Timeless.svg"><br>
@@ -34,7 +34,7 @@ Pofessora: Thalita Nunes
 
 ### Categoria Louças e Metais
 
-\*\*\* Por se tratarem de produtos mais genericos o formato da página foi alterado por não necessitar de uma descrição tão específica.<br><br>
+Por se tratarem de produtos mais genericos o formato da página foi alterado por não necessitar de uma descrição tão específica.<br><br>
 
 <img src="/figma/paginas Readme/Louças e Metais.svg"><br>
 <img src="/figma/paginas Readme/Roca Louças e Metais.svg"><br>
