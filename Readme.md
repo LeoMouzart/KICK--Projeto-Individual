@@ -44,7 +44,7 @@ Por se tratarem de produtos mais genericos o formato da página foi alterado por
 
 Em todos os itens o usuário tem a opção de solicitar o contato de um especialista, por meio de um formulário (fake).<br>
 
-<img src="/figma/paginas Readme/Contate-nos.svg><br>
+<img src="/figma/paginas Readme/Contato.png">
 
 ### Definição de Tipografia
 
