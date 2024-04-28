@@ -11,4 +11,7 @@ Pofessora: Thalita Nunes
 
 ## Design Figma:
 
-<img src="/figma/paginas Readme/Index.svg">
+<div>
+<p> ### Aqui Será aplicado um efeito de transição que expandirá o quadro referente a opção escolhido</p>
+<img src="/figma/paginas Readme/Index.svg"> 
+</div>
