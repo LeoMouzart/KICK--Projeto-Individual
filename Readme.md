@@ -21,9 +21,9 @@ Pofessora: Thalita Nunes
 
 \*\*\*Na pagina inicial das Marcas foi definido uma caixa onde estará uma descrição da marca, origem e o que ela oferece ao cliente!<br><br>
 <img src="/figma/paginas Readme/Portobello.svg"><br>
-<img src="/figma/paginas Readme/Vstone.svgsvg"><br>
+<img src="/figma/paginas Readme/Vstone.svg"><br>
 <img src="/figma/paginas Readme/Timeless.svg"><br>
-<img src="/figma/paginas Readme/AvantGarde.svg"><br><br><br>
+<img src="/figma/paginas Readme/AvantGarde Solar.svg"><br><br><br>
 
 ### Marca Eliane
 
@@ -44,7 +44,7 @@ Pofessora: Thalita Nunes
 
 Em todos os itens o usuário tem a opção de solicitar o contato de um especialista, por meio de um formulário (fake).<br>
 
-<img src="/figma/paginas Readme/Contate-nos.svg"><br>
+<img src="/figma/paginas Readme/Contate-nos.svg><br>
 
 ### Definição de Tipografia
 
