@@ -14,7 +14,7 @@
 }
 
 body {
-  /* background-image: url(/img/porcelanato/background-portobello.webp); */
+  background-image: url(/img/porcelanato/background-portobello.webp);
   background-size: cover;
   background-repeat: no-repeat;
   display: block;
@@ -32,10 +32,11 @@ header {
 }
 
 #header-top h3 {
-  color: #ecedad;
+  color: #fcf4f4;
   font-size: 18px;
-  font-weight: 400;
+  font-weight: 800;
   text-transform: uppercase;
+  font-family: "Roboto Flex", sans-serif;
 }
 
 #header-title {

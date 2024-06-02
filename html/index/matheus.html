@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ND.Son</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+        background-image: url("imagens/imagem_de_fundo.jpg");
+        background-size: cover;
+        background-position: center;
+      }
+
+      body::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.6);
+        z-index: -1;
+      }
+
+      header {
+        background-color: #333;
+        color: #fff;
+        padding: 0 0;
+      }
+
+      nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+
+      .logo img {
+        width: 100px;
+        height: 100px;
+      }
+
+      ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+      }
+
+      li {
+        margin-left: 20px;
+      }
+
+      a {
+        text-decoration: none;
+        color: #fff;
+      }
+
+      .title {
+        text-align: center;
+        margin-top: 20px;
+      }
+
+      .title h1 {
+        font-size: 3em;
+      }
+
+      .content {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin-top: 50px;
+      }
+
+      .section {
+        width: 250px;
+        height: 350px;
+        border: 1px solid #ccc;
+        overflow: hidden;
+        margin: 0 10px;
+      }
+
+      .section img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      footer {
+        background-color: #333;
+        color: #fff;
+        padding: 5;
+        text-align: center;
+        margin-top: 180px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <img src="/img/imagem.png" alt="logo" />
+        <ul>
+          <li><a href="#">HOME</a></li>
+          <li><a href="#">GIBSON</a></li>
+          <li><a href="#">NORD</a></li>
+          <li><a href="#">CONTATOS</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <div class="title">
+        <h1>A BELEZA ENTRE AS CORDAS E AS TECLAS</h1>
+      </div>
+      <div class="content">
+        <div class="section">
+          <img src="imagens/nord stage 4.jpg" alt="Teclado" />
+        </div>
+        <div class="section">
+          <img src="imagens/guitarra preta.jpg" alt="Guitarra 1" />
+        </div>
+        <div class="section">
+          <img src="imagens/guitarra laranja.jpg" alt="Guitarra 2" />
+        </div>
+        <div class="section">
+          <img src="imagens/violao j200.jpg" alt="Guitarra 3" />
+        </div>
+      </div>
+    </main>
+    <footer>
+      <p>Todos Direitos Reservados</p>
+    </footer>
+    <script></script>
+  </body>
+</html>
